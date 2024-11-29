@@ -10,4 +10,10 @@ public class RegisterUserTest {
 		// TODO Auto-generated method stub
 		System.out.println("Hi");
 	}
+	
+	public void print() {
+		for(int i=0;i<10;i++) {
+			System.out.println(i);
+		}
+	}
 }
