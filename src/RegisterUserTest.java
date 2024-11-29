@@ -10,8 +10,4 @@ public class RegisterUserTest {
 		// TODO Auto-generated method stub
 		System.out.println("Hi");
 	}
-
-	public void print500(){
-		// Implemente
-	}
 }
