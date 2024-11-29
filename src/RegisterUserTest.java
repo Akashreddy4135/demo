@@ -1,9 +1,13 @@
 
 public class RegisterUserTest {
 
-	
-	private void sys() {
+	private void sayHello() {
 		// TODO Auto-generated method stub
-
+		System.out.println("Hello");
+	}
+	
+	private void sysHi() {
+		// TODO Auto-generated method stub
+		System.out.println("Hi");
 	}
 }
